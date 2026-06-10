@@ -1,0 +1,36 @@
+name: morphlopt
+channels:
+  - pytorch
+  - conda-forge
+
+dependencies:
+  - python=3.10
+
+  - numpy=1.24.3
+  - scipy=1.15.2
+  - scikit-learn
+
+  - cvxopt=1.3.0
+  - scikit-sparse
+
+  - mkl
+  - intel-openmp
+  - pymkl
+
+  - pip
+
+  - pip:
+      - --extra-index-url https://download.pytorch.org/whl/cu128
+      - torch
+      - torchvision
+      - torchaudio
+      - tqdm
+      - pysdf
+      - trimesh
+      - fast-simplification
+      - imageio
+      - scikit-image
+      - hypothesis
+      - pytest
+      - PyMCubes
+    
