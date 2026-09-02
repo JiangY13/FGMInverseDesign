@@ -1,4 +1,4 @@
-# Compatibility-Aware Morphology Learning for Inverse Design of Functionally Graded Metamaterials under Expensive Multiphysics Evaluation
+# Compatibility-Aware Morphology Learning for Mechanical-Acoustic Inverse Design of Functionally Graded Metamaterials
 This repository contains the datasets and analysis code used in this work.
 # Overview
 ![Teaser](assets/teaser.png)
