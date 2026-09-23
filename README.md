@@ -63,6 +63,20 @@ python ./Code/TopologyOptimization/main.py --data_type mix --compatible_design T
 
 # Cite us:
 
+If this code is useful for your research, please cite our publication: 
+```bash
+@article{JIANG2027119432,
+title = {Compatibility-aware morphology learning for mechanical-acoustic inverse design of functionally graded metamaterials},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {463},
+pages = {119432},
+year = {2027},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2026.119432},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252600705X},
+author = {Yu Jiang and Weiming Wang and Yingjun Tian and Tao Liu and Ilinca Pastia and Michael Petty and Charlie C.L. Wang}
+```
+
 # Contact information:
 Yu Jiang (yu.jiang@manchester.ac.uk)
 
